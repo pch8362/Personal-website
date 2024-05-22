@@ -76,7 +76,7 @@
             <img src="cooking-image-2.jpg" alt="Cooking Image" class="image">
             <p>Here are some of the exciting projects I've worked on:</p>
             <ul>
-                <li>Gourmet Food Truck</li>
+                <li>Gourmet Wine Dinners and Private Parties</li>
                 <li>Seasonal Farm-to-Table Pop Ups</li>
                 <li>Cooking Classes and Workshops</li>
             </ul>
@@ -84,13 +84,13 @@
         <div id="blog" class="section">
             <h2>Blog</h2>
             <img src="cooking-image-3.jpg" alt="Cooking Image" class="image">
-            <p>Welcome to my blog, where I share recipes, cooking tips, and stories from my culinary adventures.</p>
+            <p>Welcome to my blog, where I share recipes, cooking tips, pictures and stories from my culinary adventures.</p>
         </div>
         <div id="contact" class="section">
             <h2>Contact</h2>
             <img src="cooking-image-4.jpg" alt="Cooking Image" class="image">
             <p>Feel free to reach out to me for collaborations, cooking classes, or any culinary inquiries.</p>
-            <p>Email: chef.craig@example.com</p>
+            <p>Email: chef.craig.holloway@gmail.com</p>
         </div>
         <div id="popups" class="section">
             <h2>Pop Ups</h2>
